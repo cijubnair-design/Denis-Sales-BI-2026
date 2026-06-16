@@ -71,19 +71,19 @@ Profit by product and category (bar chart), profit by year and product (waterfal
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard](Screenshots/01_dashboard.png)
+![Dashboard](Screenshots/01_Dashboard.png)
 
 ### Revenue Report
-![Revenue Report](Screenshots/02_revenue_report.png)
+![Revenue Report](Screenshots/02_Revenue_report.png)
 
 ### Profit Report
-![Profit Report](Screenshots/03_profit_report.png)
+![Profit Report](Screenshots/03_Profit_report.png)
 
 ### Data Model
-![Data Model](Screenshots/04_data_model.png)
+![Data Model](Screenshots/04_Data_model.png)
 
 ### Scheduled Refresh — Completed Successfully
-![Refresh History](Screenshots/05_refresh_history.png)
+![Refresh History](Screenshots/05_Refresh_history.png)
 
 ---
 
