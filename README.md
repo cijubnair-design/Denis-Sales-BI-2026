@@ -3,7 +3,7 @@
 > **European retail sales intelligence platform** built with Power BI Desktop, DAX, dynamic RLS, and automated scheduled refresh via on-premises gateway.
 
 📄 **[View Full Report (PDF)](Denis_Report.pdf)**  
-📁 **[GitHub Repository](https://github.com/cijubnair-design/Denis-Sales-BI-2026)** ← *(update after pushing)*
+📁 **[GitHub Repository](https://github.com/cijubnair-design/Denis-Sales-BI-2026)** 
 
 ---
 
